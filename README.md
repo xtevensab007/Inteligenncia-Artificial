@@ -1,6 +1,6 @@
 # Inteligenncia-Artificial
-<h1>Proyecto Inteligencia Artificial<h1/>
+<h2>Proyecto Inteligencia Artificial<h2/>
   <br>
-<p>Nombre Completo            Numero identificacion    Programa    </p>    <br>
-<p>Steven Alipio Berrio         1036661504             Ing. Sistemas </p> <br> 
-<p>Sergio Andres Zapata Ruiz    1037648161             Ing. Mecánica </p>
+<h5></h5>Nombre Completo            Numero identificacion    Programa    </h5>    <br>
+<h5>Steven Alipio Berrio         1036661504             Ing. Sistemas </h5> <br> 
+<h5>Sergio Andres Zapata Ruiz    1037648161             Ing. Mecánica </h5>
